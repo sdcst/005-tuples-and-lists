@@ -1,7 +1,7 @@
 #!python3
 
 """
-Create a list that contains the following strings, in order:
+Create a LIST that contains the following strings, in order:
 Cat
 Fish
 Dog
