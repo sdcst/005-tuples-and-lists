@@ -1,13 +1,6 @@
 #! python3
 
-import assignment
+import task3
 
 def test1():
-  assert assignment.function() == expected output
-
-def test2():
-  assert "needle" in assignment.function()
-  assert "needle2" in assignment.function(),"error Message"
-
-def test3():
-  assert assignment.function() == expected output
+  assert task3.myList == [3, 4, 4, 5, 5, 5, 6, 6, 6, 7, 8, 9]
