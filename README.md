@@ -86,7 +86,7 @@ Print out the updated list
 (2 marks)
 
 ##### Problem 3
-Ask the user to enter positive integers.
+Ask the user to enter a maximum of 10 positive integers.
 After each entry, add the number to a list
 If the entry is -1 then stop adding numbers to the list
 Sort the list and display the highest number added
